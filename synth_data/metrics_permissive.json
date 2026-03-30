@@ -1,0 +1,10 @@
+{
+  "n_gold": 145,
+  "n_pred": 194,
+  "true_positive": 145,
+  "precision": 0.7474226804123711,
+  "recall": 1.0,
+  "f1": 0.855457227138643,
+  "title_hit_rate": 1.0,
+  "page_hit_rate": 1.0
+}

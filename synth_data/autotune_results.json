@@ -1,0 +1,29 @@
+{
+  "best_mode": "permissive",
+  "results": [
+    {
+      "extractor_mode": "strict",
+      "precision": 0.6643835616438356,
+      "recall": 0.6689655172413793,
+      "f1": 0.6666666666666666,
+      "title_hit_rate": 0.6686046511627907,
+      "page_hit_rate": 0.6686046511627907
+    },
+    {
+      "extractor_mode": "balanced",
+      "precision": 0.6643835616438356,
+      "recall": 0.6689655172413793,
+      "f1": 0.6666666666666666,
+      "title_hit_rate": 0.6686046511627907,
+      "page_hit_rate": 0.6686046511627907
+    },
+    {
+      "extractor_mode": "permissive",
+      "precision": 0.7474226804123711,
+      "recall": 1.0,
+      "f1": 0.855457227138643,
+      "title_hit_rate": 1.0,
+      "page_hit_rate": 1.0
+    }
+  ]
+}
