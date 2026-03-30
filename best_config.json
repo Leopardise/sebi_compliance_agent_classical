@@ -1,0 +1,12 @@
+{
+  "bm25_weight": 0.6,
+  "dense_weight": 0.3,
+  "fuzzy_weight": 0.1,
+  "objective": 0.016,
+  "metrics": {
+    "n_cases": 20,
+    "retrieval_hit_rate_at_k": 0.0,
+    "answer_hit_rate": 0.0,
+    "reference_coverage": 0.08
+  }
+}
